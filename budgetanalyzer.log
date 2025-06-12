@@ -1,0 +1,14 @@
+2025-06-12 22:02:47,003 - INFO - ------ Budget Summary ------
+2025-06-12 22:02:47,004 - INFO - Total Earned: $2000.00
+2025-06-12 22:02:47,004 - INFO - Total Spent:  $176.00
+2025-06-12 22:02:47,004 - INFO - Spending by Category:
+2025-06-12 22:02:47,004 - INFO -   groceries: $50.25
+2025-06-12 22:02:47,004 - INFO -   utilities: $100.00
+2025-06-12 22:02:47,004 - INFO -   transport: $25.75
+2025-06-12 22:02:47,005 - INFO - Average daily spend: $-58.67
+2025-06-12 22:02:47,005 - INFO - Number of transactions per category:
+2025-06-12 22:02:47,032 - INFO - groceries : 1
+2025-06-12 22:02:47,033 - INFO - salary : 1
+2025-06-12 22:02:47,033 - INFO - transport : 1
+2025-06-12 22:02:47,033 - INFO - utilities : 1
+2025-06-12 22:02:47,034 - INFO - New fields: ['Transaction -50.25 groceries on 2024-05-01 - Debit', 'Transaction 2000.0 salary on 2024-05-02 - Credit', 'Transaction -100.0 utilities on 2024-05-03 - Debit', 'Transaction -25.75 transport on 2024-05-04 - Debit']
