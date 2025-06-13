@@ -35,6 +35,9 @@ The main() function serves as the exceutor, the one where all the classes, funct
 ## What I found clever:
 The code’s reusability. By using the main guard, it ensures that certain parts of the script only run when the script is executed directly. This preserves the script’s reusability, allowing its classes and functions to be imported and used in other modules without unintended side effects.
 
+## What i would do differently if i was writting the code
+I’d rewrite the code as a single modular function that includes the data loading and analysis logic. This would make it easier to reuse across projects or scripts without having to rewrite the main() function for every new use case
+
 
 
 
